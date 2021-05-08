@@ -4,4 +4,4 @@ I'm Marc, a Software Engineer who loves cats 🐱🐈. For collab and project op
 
 My website now has an option to enable dark mode hehe. See it in action at [https://marcrey.es](https://marcrey.es).
 
-![Dark mode lol ✌️](demo.gif "Dark mode lol ✌️")
+![Dark mode lol 😂](demo.gif "Dark mode lol ✌️")
