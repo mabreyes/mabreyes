@@ -1,7 +1,7 @@
-### Hello, world 👋
+### 👋 Hello, World!
 
-I'm Marc, a Software Engineer who loves cats 🐱🐈. For collab and project opportunities, hit me up at [hello@marcreyes.ph](hello@marcreyes.ph).
+I'm Marc, a 👨‍💻 Software Engineer from the 🇵🇭 Philippines and loves 🐈 cats. For collab and project opportunities, hit me up at [📩 hello@marcreyes.ph](hello@marcreyes.ph).
 
-My website now has an option to enable dark mode hehe. See it in action at [https://marcrey.es](https://marcrey.es).
+💻 My website now has an option to toggle between ☀ light and 🌖 dark mode. See it in action at [➡️ https://marcrey.es](https://marcrey.es).
 
-![Dark mode lol 😂](wowerz.gif "Dark mode lol 😂")
+![Website haz sum dark mode hehe](nice.gif "Website haz sum dark mode hehe")
