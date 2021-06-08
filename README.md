@@ -6,4 +6,6 @@ I'm Marc, a 👨‍💻 Software Engineer from the 🇵🇭 Philippines and love
 
 ![Website haz sum dark mode hehe](nice.gif "Website haz sum dark mode hehe")
 
-⚠️🚨 XYZ is now DEV! 🚨⚠️ Visit the new site at [➡️ https://marcrey.es/dev](https://marcrey.es/dev).
+### ⚠️🚨 Some News 🚨⚠️
+- **XYZ is now DEV!** - Visit the new site at [➡️ https://marcrey.es/dev](https://marcrey.es/dev).
+- **New status page for all of my services!** - Visit the new site at [➡️ https://marcrey.es/status](https://marcrey.es/status).
