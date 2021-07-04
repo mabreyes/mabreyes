@@ -7,4 +7,4 @@ I'm Marc, a 👨‍💻 Software Engineer from the 🇵🇭 Philippines and love
 
 The image below magically updates everyday, thanks to [🛠️ GitHub Actions](https://github.com/features/actions).
 
-![Let's count PDuts's remaining days in the presidency, together](https://raw.githubusercontent.com/mabreyes/pduts-remaining-days/main/images/today.jpg "Let's count PDuts's remaining days in the presidency, together")
+![Let's count PDuts's remaining days in the presidency, together](https://remainingdaysofpduts.marcreyes.xyz/images/today.jpg "Let's count PDuts's remaining days in the presidency, together")
