@@ -2,10 +2,9 @@
 
 I'm Marc, a 👨‍💻 Software Engineer from the 🇵🇭 Philippines and loves 🐈 cats. For collab and project opportunities, hit me up at [📩 hello@marcreyes.ph](hello@marcreyes.ph).
 
-💻 My website now has an option to toggle between ☀ light and 🌖 dark mode. See it in action at [➡️ https://marcrey.es](https://marcrey.es).
+### ✨ Project Spotlight
+⌛ Remaining Days of PDuts's Presidency [➡️ https://marcrey.es/dev](https://marcrey.es/rdpduts)
 
-![Website haz sum dark mode hehe](nice.gif "Website haz sum dark mode hehe")
+The image below magically updates everyday, thanks to [🛠️ GitHub Actions](https://github.com/features/actions).
 
-### ⚠️🚨 Some News 🚨⚠️
-- **XYZ is now DEV!** - Visit the new site at [➡️ https://marcrey.es/dev](https://marcrey.es/dev).
-- **New status page for all of my services!** - Visit the new site at [➡️ https://marcrey.es/status](https://marcrey.es/status).
+![Let's count PDuts's remaining days in the presidency, together](https://raw.githubusercontent.com/mabreyes/pduts-remaining-days/main/images/today.jpg "Let's count PDuts's remaining days in the presidency, together")
