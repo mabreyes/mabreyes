@@ -1,10 +1,9 @@
 ### 👋 Hello, World!
 
-I'm Marc, a 👨‍💻 Software Engineer from the 🇵🇭 Philippines and loves 🐈 cats. For collab and project opportunities, hit me up at [📩 hello@marcreyes.ph](hello@marcreyes.ph).
+I'm Marc, a 👨‍💻 Software Engineer based in 🇵🇭 Metro Manila and loves 🐈 cats. For collab and project opportunities, hit me up at [📩 hello@marcreyes.ph](hello@marcreyes.ph).
 
 ### ✨ Project Spotlight
-⌛ **Remaining Days of PDuts's Presidency** [➡️ https://marcrey.es/rdpduts](https://marcrey.es/rdpduts)
+⌛ **New website redesign ✨** [➡️ https://marcrey.es/](https://marcrey.es/)
 
-The image below magically updates everyday, thanks to [🛠️ GitHub Actions](https://github.com/features/actions).
 
-![Let's count PDuts's remaining days in the presidency, together](https://remainingdaysofpduts.marcreyes.xyz/images/today.jpg "Let's count PDuts's remaining days in the presidency, together")
+![New website redesign ✨](demo.gif "New website redesign ✨")
