@@ -1,9 +1,6 @@
-### 👋 Hello, World!
+### 👋 Hello, world!
 
-I'm Marc, a 👨‍💻 Software Engineer based in 🇵🇭 Metro Manila and loves 🐈 cats. For collab and project opportunities, hit me up at [📩 hello@marcreyes.ph](hello@marcreyes.ph).
+I'm Marc, a 👨‍💻 Software Engineer based in 🇵🇭 Metro Manila and loves 🐈 cats. Currently 👨‍💻 working as Head of ML Engineering at [GCash](https://gcash.com). I'm also a 🧑‍🎓 graduate student taking MS in Computer Science at UP Diliman. 
 
-### ✨ Project Spotlight
-⌛ **New website redesign ✨** [➡️ https://marcrey.es/](https://marcrey.es/)
-
-
-![New website redesign ✨](demo.gif "New website redesign ✨")
+### 💬 I wanna collab or something bro
+Definitely lol ✌️. For collab and project opportunities, hit me up at [📩 hi@marcreyes.xyz](hi@marcreyes.xyz).
